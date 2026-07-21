@@ -5,7 +5,7 @@ st.title("👨‍💻 Meet the Developer")
 col1, col2 = st.columns([1,2])
 
 with col1:
-    st.image("profile.jpg", width=220)
+    st.image("Profile.jpg", width=5000)
 
 with col2:
 
