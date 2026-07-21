@@ -54,8 +54,8 @@ The project uses a trained **Scikit-learn** Machine Learning model saved using *
 
 **Abhinay Sah**
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://www.linkedin.com/in/your-profile/
+* GitHub: https://github.com/sccitecchabhi/
+* LinkedIn: https://www.linkedin.com/in/abhinay-sah-555b0b291/
 
 ## ⭐ Support
 
